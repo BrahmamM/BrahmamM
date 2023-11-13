@@ -147,8 +147,8 @@ Sri Mittapalli College of Engineering - JNT University - Kakinada, India
 Accomplishments
 ================
 
-1. Professional macOS Programming : https://www.udemy.com/certificate/UC-bd2a37ce-3eb5-48c1-9f68- 09da7a1cce8a/
-2. Agile Scrum Master Certification Training: https://www.udemy.com/certificate/UC-9f78a2e0-f8c9-4eb3-91df- e441008155d8/
+1. Professional macOS Programming : https://www.udemy.com/certificate/UC-bd2a37ce-3eb5-48c1-9f68-09da7a1cce8a/
+2. Agile Scrum Master Certification Training: https://www.udemy.com/certificate/UC-9f78a2e0-f8c9-4eb3-91df-e441008155d8/
 3. Foundations of Project Management: https://coursera.org/share/a0845bcb73eb4979a2fdf6a386117247
 4. Project Planning: Putting It All Together : https://coursera.org/share/5441a71faca766ed136c5d655243e69f
 5. Project Execution: Running the Project: https://coursera.org/share/363b8e13c941d7042e86fdf2d2164ed9

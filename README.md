@@ -80,6 +80,7 @@ Falabella - E-Commerce Mobile App:
 16. Used SQLChipher for keeping security for local DB
 17. Utilized CocoaPods to load all third-party frameworks and manage dependencies.
 
+
 Falabella iOS App:
 https://apps.apple.com/in/app/falabella/id947145705
 
@@ -106,6 +107,8 @@ Ravn - The invisible Chat App: [Similar Apps: Pareza, Ecosmob, SecureChat, Vela]
 15. Followed code guidelines [SwiftLint Pods]
 
 Ravn App: https://ravnapp.com/
+
+
 Vela Messenger App : https://apps.apple.com/ae/app/vela-messenger/id1613131725
 
 
@@ -131,6 +134,8 @@ VivoCabs Rider and Driver [Replica of UBER]
 
 
 Rider  : https://apps.apple.com/in/app/vivocabs/id1447874716
+
+
 Driver: https://apps.apple.com/in/app/vivocabs-driver/id1447874815
 
  
